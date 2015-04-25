@@ -12,7 +12,7 @@
 #
 ##############################################################################
 name = "zc.buildout"
-version = "2.3.0+netsach.1"
+version = "2.3.0+netsach.2"
 
 import os
 from setuptools import setup
